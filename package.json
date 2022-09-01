@@ -1,0 +1,10 @@
+{
+  "name": "hello_ci_cd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Raoul Crisan <raoul.crisan@qubiz.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
